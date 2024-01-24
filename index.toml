@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "fabric-api-0.88.1+1.20.1.jar"
+hash = "39a701cc960d385960e60edc012353b517277b2c2944abe75a880870499141ab"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "ae7cf3dc5ae9d26079599ca6d2fe6e5c790ec84e003aa4ce6fc33b2230d7d632"
 metafile = true
@@ -36,18 +40,8 @@ hash = "d94da74c5f4dce9b7b6586f04b3bfe99ff2b2b5298258b8ab9b111c1c126bb67"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon.pw.toml"
-hash = "272b13df72b20273dee42882fb856b7168a74db9f998935d6f239a2ddce982a5"
-metafile = true
-
-[[files]]
 file = "mods/create-enchantment-industry-fabric.pw.toml"
 hash = "867a8ce1e5993887a1420761a63cd74ff6fca108695a3eb450346f819f080dd8"
-metafile = true
-
-[[files]]
-file = "mods/create-fabric-sodium-fix.pw.toml"
-hash = "738234a75b69eadde29b6ebda5f0be28a3ac7f583d31f9a9a62febd4e784c3b7"
 metafile = true
 
 [[files]]
@@ -72,7 +66,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f6f8827bc39d892a56351a6cecd39176addebb2ebf1c608b761b0d1985080b05"
+hash = "151490bc8c1bf6919c6a22c65a2f5a698ece74bf5d4fe7b2e725e05d93699101"
 metafile = true
 
 [[files]]
