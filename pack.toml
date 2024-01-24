@@ -1,15 +1,15 @@
-name = "Progu Mc"
-author = "Dots"
+name = "progu-mc"
+author = "dots"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "edf98c8691fc077d5359987d777990805dfa755544cd56bb4d9495e6bb7ca085"
+hash = "f4991ee4fd80ab05e776bfdf00fd88ddf4b154418c69e8f47a343df614f0f3a9"
 
 [versions]
-forge = "47.2.20"
+fabric = "0.15.6"
 minecraft = "1.20.1"
 
 [options]
