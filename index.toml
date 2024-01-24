@@ -1,0 +1,86 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "3bba06ce95e5a4e7101b2c07daf110eabbd053e9ab495feaadc8dd0e74b57f02"
+metafile = true
+
+[[files]]
+file = "mods/ad-astra.pw.toml"
+hash = "0ebc4981674c04268946b87795d4c5ac7f94aa7422edd139b5123922a2099a34"
+metafile = true
+
+[[files]]
+file = "mods/botarium.pw.toml"
+hash = "3771e5b5907e901f0c969b96ee522c76cb58ca44a89158c2efb48b304a524de0"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "3d6aab479766974055bd900494089d32d38501b2296f5ad11659c326d2207147"
+metafile = true
+
+[[files]]
+file = "mods/create-central-kitchen.pw.toml"
+hash = "5e6fd70feca4fd45288de0038e53bdd35ce4d45f59185e2f94fdf261eed863f5"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "e6d9ff51e12795189b72161e9b6fa443c93fb3512013bd9d184592b466732872"
+metafile = true
+
+[[files]]
+file = "mods/create-structures.pw.toml"
+hash = "d88d1845469a6f316eede279741cdedfc7489b3bef6c66405fff999e70d6c189"
+metafile = true
+
+[[files]]
+file = "mods/create-sweets-and-treats.pw.toml"
+hash = "1447bb7b0451dbcd05d73744e26d359aea5ff504f72314da3f83f9fa6919b1d6"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "c464b21ac8baf5ed1d22a0c4bacfcf24977e04dc938add65a2a93bcaf704c22e"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "ca2e4a2cedb344b753df3d254fa50cd9f91b812a64c2c85db842a0c32e52290c"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "f6a1f5d43ff55101b8c2f3e666d6ab789386c6032c86663c4fc442dbe99cb6a6"
+metafile = true
+
+[[files]]
+file = "mods/interactive.pw.toml"
+hash = "6864eb4954dc85bacdeffbb8fcf6f0e13d6cc6fd2c0f384cd0a0800e309879aa"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "4d0b66ba4cb3c2965bf961d4bb991babb6a60f8a20709d1e295ed7fc8b6d8929"
+metafile = true
+
+[[files]]
+file = "mods/pixelmon.pw.toml"
+hash = "9055aa26269d38ba8d75014429a3acb364ad858a8a4b9374a5a1596570ff6a9d"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "1b7504112a9ccb59687a6c023403a51732700ba0bc8d4a0d66fab69d6fe84904"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "89033cafe1b830468946969690b645560c0d3bb5b633482140b45fa77cad26b3"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "b571464fe7f6c9463f48a553df2ad664d238faae1471461a3751cc915cdaaba8"
+metafile = true

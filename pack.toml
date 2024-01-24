@@ -1,0 +1,16 @@
+name = "Progu Mc"
+author = "Dots"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6f0dcb01aec41f7f3bac7853fd61463ca0967d2bfe0ff57fd11687acf45a3e60"
+
+[versions]
+forge = "48.1.0"
+minecraft = "1.20.2"
+
+[options]
+acceptable-game-versions = ["1.20.1"]
